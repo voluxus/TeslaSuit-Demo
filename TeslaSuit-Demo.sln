@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TeslaSuit-Demo", "TeslaSuit-Demo.pyproj", "{A1271C6A-CFB2-4EE0-A1CF-F5F667E1BC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1271C6A-CFB2-4EE0-A1CF-F5F667E1BC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1271C6A-CFB2-4EE0-A1CF-F5F667E1BC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39B6DD4-5C53-4D5A-B4D3-51EAB5526CA5}
+	EndGlobalSection
+EndGlobal
